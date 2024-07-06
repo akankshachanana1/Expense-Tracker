@@ -1,15 +1,16 @@
-# Expense Tracker (React)
+# Personal-Finance-Tracker
+Check it out 
+[Personal-Finance-Tracker](https://personal-finance-tracker-qlt2.vercel.app/)
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+It helps individuals to monitor, categorize, and manage their spending habits and financial transactions.
 
-## Usage
-```
-npm install
 
-# Run on http://localhost:3000
-npm start
+### Technologies
+Project is created with:
 
-# Build for prod
-npm run build
-```
+- React
+- HTML5
+- CSS3
+- JavaScript 
+
 
